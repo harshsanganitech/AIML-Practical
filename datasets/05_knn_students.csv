@@ -1,0 +1,17 @@
+hours_studied,attendance_pct,passed
+1.0,45,No
+2.0,50,No
+2.5,55,No
+3.0,58,No
+3.5,60,No
+4.0,65,No
+4.5,68,Yes
+5.0,72,Yes
+5.5,75,Yes
+6.0,78,Yes
+6.5,80,Yes
+7.0,83,Yes
+7.5,86,Yes
+8.0,90,Yes
+8.5,92,Yes
+9.0,95,Yes
